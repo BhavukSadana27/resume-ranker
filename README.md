@@ -1,11 +1,11 @@
-# 🎯 Resume Ranker
+# Resume Ranker
 
 > AI-powered tool to analyze and rank resumes based on job descriptions  
 > using HTML/CSS/JS as frontend and using NLP (spaCy), Node.js as backend.
 
 ---
 
-## 📦 **Project Structure (3-layer architecture)**
+##  **Project Structure (3-layer architecture)**
 
 ```
 
@@ -17,9 +17,9 @@ resumeRankerNLPMicroservice/ → Python Flask microservice (spaCy)
 
 ---
 
-## 🚀 **Getting Started**
+##  **Getting Started**
 
-> ✅ Make sure you have:
+>  Make sure you have:
 > - Node.js & npm installed
 > - Python 3.x installed
 > - Internet connection to download dependencies
@@ -28,7 +28,7 @@ You need to **run all 3 layers in separate terminals**.
 
 ---
 
-## 🌐 **1️⃣ Frontend**
+##  **1️⃣ Frontend**
 
 ```bash
 cd frontend
@@ -39,7 +39,7 @@ Runs at ➜ [http://localhost:3000/](http://localhost:3000/)
 
 ---
 
-## 🖥 **2️⃣ Backend (Node.js / Express)**
+##  **2️⃣ Backend (Node.js / Express)**
 
 ```bash
 cd backend
@@ -51,9 +51,9 @@ Runs at ➜ [http://localhost:8000/](http://localhost:8000/)
 
 ---
 
-## 🧠 **3️⃣ Python NLP Microservice**
+##  **3️⃣ Python NLP Microservice**
 
-### ✅ Recommended (with virtual environment):
+### Recommended (with virtual environment):
 
 ```bash
 cd resumeRankerNLPMicroservice
@@ -66,7 +66,7 @@ python run.py
 
 ---
 
-### ⚠ Alternative (without virtual env):
+###  Alternative (without virtual env):
 
 ```bash
 cd resumeRankerNLPMicroservice
@@ -79,7 +79,7 @@ Runs at ➜ [http://localhost:5000/](http://localhost:5000/)
 
 ---
 
-## 📌 **Notes**
+##  **Notes**
 
 * `.env` and `config.py` are included (hold port configs)
 * All 3 services must run simultaneously for full functionality
@@ -87,7 +87,7 @@ Runs at ➜ [http://localhost:5000/](http://localhost:5000/)
 
 ---
 
-## 🛠 **Tech Stack**
+## **Tech Stack**
 
 * Frontend: HTML, CSS, JavaScript
 * Backend: Node.js, Express.js
@@ -96,10 +96,10 @@ Runs at ➜ [http://localhost:5000/](http://localhost:5000/)
 
 ---
 
-✅ **Now open** [http://localhost:3000/](http://localhost:3000/) in your browser and start ranking resumes!
+ **Now open** [http://localhost:3000/](http://localhost:3000/) in your browser and start ranking resumes!
 
-```
-✅ **screenshot**
+``
+##  **screenshots**
 ---
 
 <img width="1776" height="697" alt="image" src="https://github.com/user-attachments/assets/9f8d3cab-8d99-4127-a4b0-c8e0fb3d2052" />
