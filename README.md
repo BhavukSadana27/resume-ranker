@@ -104,8 +104,7 @@ Runs at ➜ [http://localhost:5000/](http://localhost:5000/)
 
 <img width="1776" height="697" alt="image" src="https://github.com/user-attachments/assets/9f8d3cab-8d99-4127-a4b0-c8e0fb3d2052" />
 
+---
 
-
-```
 <img width="1264" height="893" alt="image" src="https://github.com/user-attachments/assets/01069072-6836-4989-bfc7-511d1222acad" />
 
